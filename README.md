@@ -1,6 +1,8 @@
 # PdfCreatorApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.18.
+At present the app supports pdf generation using jsPDF library of Angular. Note : this app  will consist of various features that we can implement using Angular. The intention is to help fellow developers and showcase my learning capabilities.
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.18. 
 
 ## Development server
 
