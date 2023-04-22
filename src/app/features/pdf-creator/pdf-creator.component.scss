@@ -1,0 +1,43 @@
+.container{
+    margin:20px;
+    padding:10px 20px 10px 20px;
+}
+.title{
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    color: black;
+    font-weight: 500;
+    
+}
+
+.table-class{
+    margin:20px;
+    border: 1px solid red;
+}
+
+table {
+    width: 100%;
+    td{
+        height: 10px;
+    }
+  }
+#content{
+    width: 595px;
+    height: max-content;
+}
+
+#table{
+    max-width: 2480px;
+    width: 100%;
+    overflow: hidden;
+    word-wrap: break-word;
+}
+img{
+    width: 400px;
+    height: 300px;
+    align-self: center;
+}
